@@ -1,0 +1,17 @@
+output_dir: "."
+navbar:
+  title: "ТВиМС, 2021-2022"
+  left:
+    - text: "Что порешать и почитать"
+      href: plans.html
+    - text: "Важные даты"
+      href: deadlines.html
+    - text: "Результаты"
+      href: progress.html
+  right: 
+    - text: "Напиши Дарье"
+      icon: fa-envelope-o
+      href: mailto:darysalnikova@yandex.ru                    # CHANGE HERE 
+output:
+  html_document:
+    theme: united
