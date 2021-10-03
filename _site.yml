@@ -1,17 +1,20 @@
 output_dir: "."
 navbar:
-  title: "ТВиМС, 2021-2022"
+  title: "РАПДК, 2021"
   left:
-    - text: "Что порешать и почитать"
+    - text: "Welcome"
+      href: index.html
+    - text: "Материалы"
       href: plans.html
-    - text: "Важны даты"
+    - text: "Важные даты"
       href: deadlines.html
-    - text: "Результат"
+    - text: "Успехи"
       href: progress.html
   right: 
-    - text: "Напиши Дарье"
+    - text: "Help! Напиши Дарье"
       icon: fa-envelope-o
       href: mailto:darysalnikova@yandex.ru                    # CHANGE HERE 
+ 
 output:
   html_document:
     theme: united

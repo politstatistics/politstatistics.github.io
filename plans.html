@@ -11,7 +11,7 @@
 
 
 
-<title>Что порешать и почитать</title>
+<title>Материалы</title>
 
 <script src="site_libs/header-attrs-2.10/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
@@ -29,6 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -220,6 +223,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -227,6 +293,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -239,18 +315,21 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">ТВиМС, 2021-2022</a>
+      <a class="navbar-brand" href="index.html">РАПДК, 2021</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="plans.html">Что порешать и почитать</a>
+  <a href="index.html">Welcome</a>
 </li>
 <li>
-  <a href="deadlines.html">Важны даты</a>
+  <a href="plans.html">Материалы</a>
 </li>
 <li>
-  <a href="progress.html">Результат</a>
+  <a href="deadlines.html">Важные даты</a>
+</li>
+<li>
+  <a href="progress.html">Успехи</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -258,7 +337,7 @@ $(document).ready(function () {
   <a href="mailto:darysalnikova@yandex.ru">
     <span class="fa fa-envelope-o"></span>
      
-    Напиши Дарье
+    Help! Напиши Дарье
   </a>
 </li>
       </ul>
@@ -270,20 +349,83 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Что порешать и почитать</h1>
+<h1 class="title toc-ignore">Материалы</h1>
 
 </div>
 
 
-<p>output: html_document: toc: true toc_depth: 3 toc_float: true theme: united —</p>
-<div id="занятие-1" class="section level2">
-<h2>Занятие 1</h2>
-<p>Тема: регрессия на константу, идея метода наименьших квадратов, парная регрессионная</p>
-<p>Тема: регрессия на константу, идея метод наименьших квадратов, модель линейной парной регрессии</p>
+<div id="многомерный-статистический-анализ-в-политологии" class="section level2">
+<h2>Многомерный статистический анализ в политологии</h2>
+</div>
+<div id="занятие-1" class="section level1">
+<h1>Занятие 1</h1>
+<p>Тема: О чем курс и каковы правила игры? Введение в модели с фиксированными эффектами</p>
+<p><a href="MSA_intro.pdf" title=>Introduction</a></p>
+<p><a href="MSA_lecture1.pdf" title=>Lecture 1</a></p>
+<p><a href="MSA_seminar_1.pdf" title=>Seminar 1</a></p>
+<p>Reading:</p>
+<p><a href="Green et al., Dirty pool.pdf" title=>Dirty pool</a></p>
+<p><a href="https://yadi.sk/i/4YsEBveY1j4nUw" title=>Stock, Watson, Chapter 10</a></p>
+</div>
+<div id="занятие-2" class="section level1">
+<h1>Занятие 2</h1>
+<p>Тема: FE-models VS RE-models</p>
+<p><a href="MSA_lecture2.pdf" title=>Lecture 2</a></p>
+<p><a href="MSA_lab1.R" title=>Lab1</a></p>
+<p><a href="MSA_lab1.dta" title=>Data. Lab1</a></p>
+</div>
+<div id="занятие-3" class="section level1">
+<h1>Занятие 3</h1>
+<p>Тема: FE-models (альтернативные спецификации, интерпретация, диагностики)</p>
+<p><a href="MSA_lecture3.pdf" title=>Lecture 3</a></p>
+<p><a href="MSA_lab2.R" title=>Lab2</a></p>
+<p><a href="MSA_lab2.dta" title=>Data. Lab2</a></p>
+<p>Reading (optional):</p>
+<p><a href="Kropko, Kubinec, 2018.pdf" title=>Kropko, Kubinec, 2018</a></p>
+<p><a href="Clark, Linzer, 2014.pdf" title=>Clark, Linzer, 2014</a></p>
+</div>
+<div id="занятие-4" class="section level1">
+<h1>Занятие 4</h1>
+<p>Тема: FE-models + RE-models (практика)</p>
+<p><a href="MSA_lab3.R" title=>Lab3</a></p>
+<p><a href="MSA_lab3.dta" title=>Data. Lab3</a></p>
+</div>
+<div id="занятие-5" class="section level1">
+<h1>Занятие 5</h1>
+<p>Тема: проверочная работа по FE-, RE-models + первая лекция по mixed-effects models</p>
+<p><a href="MSA_test11.pdf" title=>Проверочная (1 вариант)</a></p>
+<p><a href="MSA_test12.pdf" title=>Проверочная (2 вариант)</a></p>
+</div>
+<div id="занятие-6" class="section level1">
+<h1>Занятие 6</h1>
+<p>Тема: спецификации моделей со смешанными эффектами (ME-models), интерпретация</p>
+<p><a href="MSA_lecture4.pdf" title=>Lecture 4</a></p>
+<p><a href="MSA_seminar3.pdf" title=>Seminar 2</a></p>
+<p><a href="MSA_hw.pdf" title=>Домашнее задание для тренировки</a></p>
+</div>
+<div id="занятие-7" class="section level1">
+<h1>Занятие 7</h1>
+<p>Тема: ME-models: спецификация, оценивание и тестирование моделей</p>
+<p><a href="MSA_lecture5.pdf" title=>Lecture 5</a></p>
+<p><a href="MSA_lab4(UPD).R" title=>Lab4(UPD)</a></p>
+<p><a href="MSA_lab4.dta" title=>Data. Lab4</a></p>
+<p>Домашнее задание к 11 октября:</p>
+<ol style="list-style-type: decimal">
+<li><p>прочитать стр. 218 – 224 в этой <a href="Steenbergen,Jones, 2002.pdf" title=>статье</a></p></li>
+<li><p>подумать то, насколько содержательно оправданны допущения моделей со смешанными эффектами</p></li>
+<li><p>критически осмыслить предложенное авторами обоснование для использования этого класса моделей</p></li>
+</ol>
+</div>
+<div id="занятие-8" class="section level1">
+<h1>Занятие 8</h1>
+<p>Reading:</p>
+<p><a href="https://yadi.sk/d/ci9V-ylSU4Kh3A" title=>Hox,читать только про спефикации моделей, глава 2</a></p>
 </div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -316,6 +458,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
