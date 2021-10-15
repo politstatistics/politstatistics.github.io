@@ -72,3 +72,45 @@ Reading:
 4) <a href="https://yadi.sk/d/ci9V-ylSU4Kh3A" title=>Hox,читать только про спецификации моделей, глава 2</a>
 
 5) доделать Задание 3 из <a href="RAPDC_seminar2.pdf" title=>Семинарского листочка 2</a>
+
+# Занятие 7 
+
+Тема: ME-models, спецификация и допущения
+
+<a href="RAPDC_lecture3.pdf" title=>Lecture 3</a> 
+
+# Занятие 8
+
+Тема: ME-models, практика в R, оценивание, интерпретация, тестирование альтернативных спецификаций, диагностики
+
+<a href="RAPDC_lab3.R" title=>Lab 3</a> 
+
+<a href="RAPDC_lab3.dta" title=>RAPDC_lab3.dta</a> 
+
+# Занятие 9
+
+Тема: ME-models, практика в R, применение к панельным данным
+
+<a href="RAPDC_lecture4_full.pdf" title=>Lecture 4</a> 
+
+<a href="RAPDC_lab_tasks.pdf" title=>Задания к практикуму</a> 
+
+<a href="RAPDC_lab4.R" title=>Lab 4</a> 
+
+Бонусное домашнее задание до 23.59 29 октября (сдается на проверку по желанию): 
+
+<a href="RAPDC_bonus.pdf" title=>Бонусное задание</a> 
+
+Обязательное домашнее задание до 23.59 31 октября (сдается на проверку): 
+
+Написать reflection paper (примерный план - <a href="reflection_paper.pdf" title=>здесь</a> ) на одну из статей, приведенных ниже
+ 
+<a href="Paper 1. Kaariainen, 2007.pdf" title=>Paper 1. Kaariainen, 2007</a>  
+ 
+<a href="Paper 2. Ibsen et al., 2019.pdf" title=>Paper 2. Ibsen et al., 2019</a> 
+
+
+
+
+
+
