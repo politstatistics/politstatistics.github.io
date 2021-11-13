@@ -113,7 +113,7 @@ Reading:
 
 Тема: Проявления эндогенности
 
-<a href="RAPDC_lecture5.pdf" title=>Lecture 5</a> 
+<a href="RAPDC_lecture5_2021.pdf" title=>Lecture 5</a> 
 
 <a href="RAPDC_seminar3.pdf" title=>Семинарский лист 3</a> 
 
