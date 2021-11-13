@@ -131,7 +131,7 @@ Morgan, Winship - читать pp.3-50
 
 Тема: Введение в каузальный вывод, ключевые понятия
 
-<a href="RAPDC_lecture6.pdf" title=>Lecture 6</a> 
+<a href="RAPDC_lecture6_2021.pdf" title=>Lecture 6</a> 
 
 <a href="RAPDC_seminar4_UPD.pdf" title=>Семинарский лист 4</a> 
 
