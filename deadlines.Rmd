@@ -9,6 +9,8 @@ title: "Важные даты"
 29 октября | <a href="RAPDC_bonus.pdf" title=>Бонусное задание</a> | ME-модели
 31 октября | Reflection paper | ME-модели
 9 ноября | <a href="RAPDC_hw3.pdf" title=>Домашнее задание 3 (сдаваемое)</a>  | Проявления эндогенности
+19 ноября | Контрольная работа. <a href="RAPDC_midterm_LO.pdf" title=>Learning outcomes</a>  | Все пройденные темы 
+21 ноября | <a href="RAPDC_hw_bonus.pdf" title=>Бонусное задание 2</a> | Определение контрольных переменных, backdoor criterion
 5 декабря | эссе по курсу | см. подробнее <a href="RAPDC_intro_2021.pdf" title=>вводную презентацию</a>
 
 
