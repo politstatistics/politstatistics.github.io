@@ -12,6 +12,7 @@ title: "Важные даты"
 19 ноября | Контрольная работа. <a href="RAPDC_midterm_LO.pdf" title=>Learning outcomes</a>  | Все пройденные темы 
 21 ноября | <a href="RAPDC_hw_bonus.pdf" title=>Бонусное задание 2</a> | Определение контрольных переменных, backdoor criterion
 5 декабря | эссе по курсу | см. подробнее <a href="RAPDC_intro_2021.pdf" title=>вводную презентацию</a>
+8 февраля | АКД: проверочная работа 1| см. подробнее <a href="CDA_LO1.pdf" title=>Learning Outcomes 1</a>
 1 июня | эссе по АКД | см. подробнее <a href="CDA_intro_2022.pdf" title=>вводную презентацию</a>
 
 
