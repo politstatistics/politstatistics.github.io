@@ -1,6 +1,6 @@
 output_dir: "."
 navbar:
-  title: "РАПДК, 2021"
+  title: "РАПДК, 2022"
   left:
     - text: "Welcome"
       href: index.html
