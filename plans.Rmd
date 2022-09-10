@@ -8,6 +8,16 @@ output:
     theme: united
 ---
 # Регрессионный анализ: панельные данные и каузальность
+
+### Обозначения
+
+`r  shiny::icon("scroll")` -- презентация / конспект занятия
+
+`r  shiny::icon("readme")` -- Reading
+
+`r  shiny::icon("desktop")` -- материалы для практикума
+
+`r  shiny::icon("pencil")` -- задание 
  
 ## Занятие 1
  
