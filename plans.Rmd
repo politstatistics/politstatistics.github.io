@@ -11,11 +11,11 @@ output:
 
 ### Обозначения
 
-`r  shiny::icon("scroll")` -- презентация / конспект занятия
+`r  shiny::icon("scroll")` -- презентация / конспект занятия / семинарский листочек
 
 `r  shiny::icon("readme")` -- Reading
 
-`r  shiny::icon("desktop")` -- материалы для практикума
+`r  shiny::icon("desktop")` -- материалы для практикума (данные, код)
 
 `r  shiny::icon("pencil")` -- задание 
  
