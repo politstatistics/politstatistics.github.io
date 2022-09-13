@@ -34,7 +34,8 @@ output:
 
 ## Занятие 2
  
-Тема: Эндогенность и ее источники: повторение. Введение в анализ панельных данных: модели с фиксированными эффектами   
+Тема: Эндогенность и ее источники: повторение. 
+Введение в анализ панельных данных: модели с фиксированными эффектами   
   
 `r  shiny::icon("scroll")` <a href="RAPDC_lecture1_endo_2022.pdf" title=>Эндогенность: повторение</a> 
 
@@ -42,7 +43,7 @@ output:
  
 Домашнее задание: 
 
-`r  shiny::icon("readme")`  <a href="https://disk.yandex.ru/i/G9DO5ZMwYmP2Mw" title=>Stock, Watson, Chapter 10</a>  
+`r  shiny::icon("readme")`  <a href="https://disk.yandex.ru/i/G9DO5ZMwYmP2Mw" title=>Stock, Watson, Chapter 10 (10.1 - 10.3)</a>  
 
 Дополнительно: `r  shiny::icon("readme")`  <a href="https://disk.yandex.ru/i/jckSVZKWPqWCMg" title=>Магнус, Катышев, Пересецкий, разделы 13.1 - 13.3</a>  
 
