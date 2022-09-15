@@ -40,6 +40,10 @@ output:
 `r  shiny::icon("scroll")` <a href="RAPDC_lecture1_endo_2022.pdf" title=>Эндогенность: повторение</a> 
 
 `r  shiny::icon("scroll")` <a href="RAPDC_seminar1_2022.pdf" title=>Семинарский листочек 1</a> 
+
+`r  shiny::icon("scroll")` <a href="RAPDC_class2_12.09.html" title=>Конспект от 12.09</a> 
+
+`r  shiny::icon("scroll")` <a href="RAPDC_lecture1_example1.rds" title=>RAPDC_lecture1_example1.rds</a> 
  
 Домашнее задание: 
 
