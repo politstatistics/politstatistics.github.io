@@ -43,7 +43,7 @@ output:
 
 `r  shiny::icon("scroll")` <a href="RAPDC_class2_12.09.html" title=>Конспект от 12.09</a> 
 
-`r  shiny::icon("scroll")` <a href="RAPDC_lecture1_example1.rds" title=>RAPDC_lecture1_example1.rds</a> 
+`r  shiny::icon("desktop")` <a href="RAPDC_lecture1_example1.rds" title=>RAPDC_lecture1_example1.rds</a> 
  
 Домашнее задание: 
 
