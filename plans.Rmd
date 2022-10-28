@@ -121,7 +121,7 @@ output:
 
 `r  shiny::icon("scroll")` <a href="RAPDC_seminar3.pdf" title=>Семинарский листочек 3</a> 
 
-`r  shiny::icon("scroll")` <a href="RAPDC_lectures_6_7.html" title=>Конспект от 14.10 и 18.10</a> 
+`r  shiny::icon("scroll")` <a href="RAPDC_Lectures_6_7.html" title=>Конспект от 14.10 и 18.10</a> 
 
 
 
