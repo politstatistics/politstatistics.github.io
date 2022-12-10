@@ -137,6 +137,11 @@ output:
 
 `r  shiny::icon("pencil")` <a href="RAPDC_hw2_2022.pdf" title=>Домашнее задание 2 (сдаваемое)</a> 
 
+## Занятие 12
+
+Тема: рандомизированный эксперимент, средний эффект воздействия, допущения SUTVA 
+
+`r  shiny::icon("scroll")` <a href="RAPDC_seminar4.pdf" title=>Семинарский листочек 4</a> 
 
 
 
