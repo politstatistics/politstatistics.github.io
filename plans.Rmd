@@ -145,6 +145,9 @@ output:
 
 `r  shiny::icon("scroll")` <a href="RAPDC_seminar4.pdf" title=>Семинарский листочек 4</a> 
 
+`r  shiny::icon("scroll")` <a href="RAPDC_seminar4_solution.pdf" title=>Решение семинара 4</a> 
+
+
 ## Занятие 13
 
 Тема: выбор контрольных переменных, критерий черного хода
