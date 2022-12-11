@@ -141,8 +141,17 @@ output:
 
 Тема: рандомизированный эксперимент, средний эффект воздействия, допущения SUTVA 
 
+`r  shiny::icon("scroll")` <a href="RAPDC_lecture.pdf" title=>Презентация</a> 
+
 `r  shiny::icon("scroll")` <a href="RAPDC_seminar4.pdf" title=>Семинарский листочек 4</a> 
 
+## Занятие 13
+
+Тема: выбор контрольных переменных, критерий черного хода
+
+`r  shiny::icon("scroll")` <a href="RAPDC_seminar5_2022.pdf" title=>Семинарский листочек 5</a> 
+
+`r  shiny::icon("scroll")` <a href="RAPDC_seminar5_solution.pdf" title=>Конспект и решение семинара 5</a> 
 
 
 
