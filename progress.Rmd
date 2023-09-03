@@ -7,4 +7,3 @@ output:
     toc_float: true
     theme: united
 ---
-<a href="https://docs.google.com/spreadsheets/d/1nhRVPZ0jJyhEMNzWHuh14YcfkEEi5KSyhmcZFJtYh-k/edit?usp=sharing" title=>Ведомость РАПДК</a>
