@@ -23,7 +23,10 @@ output:
  
 Тема: О чем курс и каковы правила игры? Введение
 
-`r  shiny::icon("scroll")` <a href="RAPDC_intro_2022.pdf" title=>Презентация-введение: о курсе</a> 
+`r  shiny::icon("scroll")` <a href="RAPDC_intro_2023.pdf" title=>Презентация-введение: о курсе</a> 
+
+`r  shiny::icon("desktop")` <a href="RAPDC_lecture1_example1.rds" title=>RAPDC_lecture1_example1.rds</a> 
+
 
 
 
