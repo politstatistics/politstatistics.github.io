@@ -45,4 +45,20 @@ output:
 
 `r  shiny::icon("readme")`  <a href="https://disk.yandex.ru/i/G9DO5ZMwYmP2Mw" title=>Stock, Watson, Chapter 10 (10.1 - 10.3)</a>  
 
+## Занятие 3 (19.09)
+ 
+Тема: Модели с фиксированными эффектами
+
+`r  shiny::icon("desktop")` <a href="RAPDC_lab1_2023.html" title=>Конспект практикума от 19.09</a>
+
+`r  shiny::icon("desktop")` <a href="RAPDC_lab1.dta" title=>RAPDC_lab1.dta</a>
+
+`r  shiny::icon("scroll")` <a href="RAPDC_seminar2_2023.pdf" title=>Семинарский лист 2</a>
+
+Домашнее задание: 
+
+`r  shiny::icon("desktop")` <a href="RAPDC_lab1(2)_2023.pdf" title=>Домашнее задание к семинару 26.09</a>
+
+
+
 
