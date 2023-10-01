@@ -65,7 +65,7 @@ output:
 
 `r  shiny::icon("scroll")` <a href="RAPDC_lecture3.html" title=>Конспект от 26.09</a>
 
-`r  shiny::icon("readme")`  <a href="Kropko, Kubinec, 2020" title=>Kropko, Kubinec, 2020</a>  
+`r  shiny::icon("readme")`  <a href="Kropko, Kubinec, 2020.pdf" title=>Kropko, Kubinec, 2020</a>  
 
 ## Занятие 5 (30.09)
  
