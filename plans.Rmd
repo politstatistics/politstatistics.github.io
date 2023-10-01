@@ -59,6 +59,19 @@ output:
 
 `r  shiny::icon("desktop")` <a href="RAPDC_lab1(2)_2023.pdf" title=>Домашнее задание к семинару 26.09</a>
 
+## Занятие 4 (26.09)
+ 
+Тема: Модель с фиксированными эффектами на временные периоды; модель с разными наклонами 
+
+`r  shiny::icon("scroll")` <a href="RAPDC_lecture3.html" title=>Конспект от 26.09</a>
+
+`r  shiny::icon("readme")`  <a href="Kropko, Kubinec, 2020" title=>Kropko, Kubinec, 2020</a>  
+
+## Занятие 5 (30.09)
+ 
+Тема: Модель со случайными эффектами
+
+`r  shiny::icon("scroll")` <a href="RAPDC_lecture4.html" title=>Конспект от 30.09</a>
 
 
 
