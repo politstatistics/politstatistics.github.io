@@ -9,6 +9,9 @@ output:
 ---
 # Регрессионный анализ: панельные данные и каузальность
 
+<a href="https://drive.google.com/drive/folders/1BnzYCXipHvfljpn4af8SYgayfRP8dgTL?usp=sharing" title=>Ссылка на общую папку с литературой</a>  
+Папка будет пополняться в процессе изучения материала. 
+
 ### Обозначения
 
 `r  shiny::icon("scroll")` -- презентация / конспект занятия / семинарский листочек
@@ -89,4 +92,11 @@ output:
 
 `r  shiny::icon("scroll")` <a href="RAPDC_lecture5.html" title=>Конспект от 10.10 и 17.10</a>
 
+## Занятие 9 (24.10)
+
+Тема: практикум 
+
+`r  shiny::icon("desktop")` <a href="RAPDC_lab3_2023.html" title=>Конспект практикума от 24.10</a>
+
+`r  shiny::icon("scroll")` <a href="RAPDC_lecture_time.pdf" title=>Конспект (часть 2)</a>
 
